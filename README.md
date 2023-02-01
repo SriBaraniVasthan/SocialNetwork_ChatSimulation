@@ -1,1 +1,1 @@
-# HaskellIndividualAssignment
+# SocialNetwork_ChatSimulation
